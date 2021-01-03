@@ -1,0 +1,13 @@
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\bin\Debug\netcoreapp3.1\Project Task 1.exe
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\bin\Debug\netcoreapp3.1\Project Task 1.deps.json
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\bin\Debug\netcoreapp3.1\Project Task 1.runtimeconfig.json
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\bin\Debug\netcoreapp3.1\Project Task 1.runtimeconfig.dev.json
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\bin\Debug\netcoreapp3.1\Project Task 1.dll
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\bin\Debug\netcoreapp3.1\Project Task 1.pdb
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\obj\Debug\netcoreapp3.1\Project Task 1.csprojAssemblyReference.cache
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\obj\Debug\netcoreapp3.1\Project Task 1.AssemblyInfoInputs.cache
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\obj\Debug\netcoreapp3.1\Project Task 1.AssemblyInfo.cs
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\obj\Debug\netcoreapp3.1\Project Task 1.csproj.CoreCompileInputs.cache
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\obj\Debug\netcoreapp3.1\Project Task 1.dll
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\obj\Debug\netcoreapp3.1\Project Task 1.pdb
+E:\OneDrive\Рабочий стол\Projects\Project Task 1\Project Task 1\obj\Debug\netcoreapp3.1\Project Task 1.genruntimeconfig.cache
